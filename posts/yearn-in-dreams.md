@@ -1,7 +1,7 @@
 ---
 title: "梦里相思"
 date: "2026-06-01 21:50:00"
-tags: ["music", "misc1". "misc2", "misc3"]
+tags: ["music", "misc1", "misc2", "misc3"]
 description: "这是一首歌"
 ---
 
